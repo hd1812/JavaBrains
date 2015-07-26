@@ -1,0 +1,13 @@
+Introduction to Java Restful web service
+
+Rest Web Service v.s SOAP Web Service
+
+Protocol: Message Format
+Restful sends messages through XML, JSON, TXT
+HTTP methods are used for message exchange
+
+Service definition
+WSDL document defines service and is available to clients
+
+Restful: REpresentational State Transfer
+No specifications. Try to keep everything easy

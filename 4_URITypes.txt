@@ -1,0 +1,6 @@
+RESTful URI types
+
+Instance resource URI: get specific instance directly
+Collection Resource URIs: get collections of resources ... e.g get all messages
+
+Filtering result--e.g /messages?offset=30%limit=10	/messages?year=2014

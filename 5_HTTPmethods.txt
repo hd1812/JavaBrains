@@ -1,0 +1,15 @@
+Operations on URI
+
+e.g
+/getMessages.do?id=10     --actions
+/messages/10
+
+URI only locate resource, use HTTP method to perform actions
+
+resource URIs: get/put(update)/post(create)/delete
+
+collection URIs: 	get 	-- get all messages
+					delete 	-- delete all	delete  /messages/10/comments
+					post	-- create a new comment for message 10  post  /messages/10/comments
+					put		-- replace all ...
+					

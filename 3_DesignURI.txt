@@ -1,0 +1,11 @@
+Designing Resource URIs
+
+Use a common URI convention
+
+Static websites
+every page is resource-based
+
+e.g
+Static profile page (Usually saved as name)
+
+Resource-based URI (Usually just nouns not verbs)

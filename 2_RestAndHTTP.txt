@@ -1,0 +1,22 @@
+Rest and HTTP
+
+Rest is inspired by HTTP
+HTTP (Hyper Text Transfer Protocol)
+It changes Hypertext, which contains hyperlinks to other Hypertext. (Usually in HTML)
+
+Addresses 
+1.normal website
+2.recourse biased -- indicating resource and no processing
+
+HTTP Methods
+GET POST PUT DELETE
+
+Metadata
+HTTP status code -- 200(success),500(server error),404,500
+Header value, containing message type e.g test/xml application/json
+
+Summary
+Use recourse-based URI
+HTTP methods
+HTTP status codes
+Message headers
