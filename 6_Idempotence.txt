@@ -1,0 +1,12 @@
+Idempotence
+
+Get -- read-only method
+Post,Put,Delete -- Write method
+
+GET, DELETE, PUT are repeatable
+POST is not repeatable
+
+Resource creation requests are not idempotent, so should use POST
+
+Duplicated get request will fetch data from cache
+Refresh buttom -- if post, browser warns to submit a form again

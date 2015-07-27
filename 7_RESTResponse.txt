@@ -1,0 +1,11 @@
+REST Response
+
+Response can be in many formats, JSON, XML etc.
+Use HTTP header containing information like Message Length, Data, Content Type etc.
+
+Status Code
+1XX Informational
+2XX Success
+3XX Redirection Codes
+4XX Client Error
+5XX Server Error
